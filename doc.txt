@@ -1,0 +1,24 @@
+notes
+figma e-school
+font-familly
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+color
+	bag:#F0FFF0
+	black:#000000
+	green:#21B573
+	whait
+	red hover a use hba:#FD511A;
+header
+
+layout
+
+section
+
+semantice 
+
+code coment
+
+reuse...
+
+code repetision avoid
